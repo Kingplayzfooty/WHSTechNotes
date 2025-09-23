@@ -62,3 +62,18 @@ you eat and the bot would tell you many calories your about to eat, how many you
 eaten so far, and also remind you how much you have left before you reach your limit.
 This could help people with proportion, learing how to set limits, and deny the body.
 I think this bot could be very helpful to not just U.S. but everyone on the globe.
+
+# September 22, 2025
+I think working in a virtual store isn't a good idea if your making real money. Although
+ it's definetly good for training and maybe good to understand the job your applying for/
+ possibly about to work for, yet I dont think it provides enough realistic training to the 
+ employee. This could be dangerous especially with a place like IKEA. For example, if you are
+ required to move some really heavy things or do a bit of labor, I dont think any online training
+ could prepare you for actually completing this task in real life. Another reason why I dont think
+ this virtual store job is a good idea, is because it dosen't teach you the responsibility of having
+ a real job. There are many things that come with having a job; time management, money management, 
+ social interaction, etc. These things teach you a very valuable lesson and can help you for the 
+rest of your life. To give an example, imagine someone who wakes up late, stays inside all day, (anti social)
+and eats/does whatever and whenever they want too. You could theoretically do these things with this virtual job.
+Allowing many people to do this could ruin a good amount of lives. In conclusion, that is why I dont think working
+in a virtual store is a good idea.
