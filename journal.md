@@ -64,6 +64,7 @@ This could help people with proportion, learing how to set limits, and deny the 
 I think this bot could be very helpful to not just U.S. but everyone on the globe.
 
 # September 22, 2025
+
 I think working in a virtual store isn't a good idea if your making real money. Although
  it's definetly good for training and maybe good to understand the job your applying for/
  possibly about to work for, yet I dont think it provides enough realistic training to the 
@@ -77,3 +78,9 @@ rest of your life. To give an example, imagine someone who wakes up late, stays 
 and eats/does whatever and whenever they want too. You could theoretically do these things with this virtual job.
 Allowing many people to do this could ruin a good amount of lives. In conclusion, that is why I dont think working
 in a virtual store is a good idea.
+
+# September 30, 2025
+
+ ''6-7'' originated from a kid named Mason; at a basketball game and decided to say 6-7. It was uploaded online and became
+ a trend/meme. The numbers 6-7 are commonly used in everyday life so its pretty easy to say it all the time, people say it
+ just because they wanna say it. The trend is also easily recognized, and allows people to maybe even let out a little giggle.
