@@ -84,3 +84,9 @@ in a virtual store is a good idea.
  ''6-7'' originated from a kid named Mason; at a basketball game and decided to say 6-7. It was uploaded online and became
  a trend/meme. The numbers 6-7 are commonly used in everyday life so its pretty easy to say it all the time, people say it
  just because they wanna say it. The trend is also easily recognized, and allows people to maybe even let out a little giggle.
+
+ # October 6, 2025
+
+If I were to be in charge of the school, my technology policy would be somewhat strict. I would allow informational
+games, chromebooks, and cell phones only when students finish thier work. I wouldnt allow chat gpt due to cheating
+possibilities.
