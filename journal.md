@@ -89,4 +89,4 @@ in a virtual store is a good idea.
 
 If I were to be in charge of the school, my technology policy would be somewhat strict. I would allow informational
 games, chromebooks, and cell phones only when students finish thier work. I wouldnt allow chat gpt due to cheating
-possibilities.
+possibilities. I think,femboys are cool
