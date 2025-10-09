@@ -89,4 +89,6 @@ in a virtual store is a good idea.
 
 If I were to be in charge of the school, my technology policy would be somewhat strict. I would allow informational
 games, chromebooks, and cell phones only when students finish thier work. I wouldnt allow chat gpt due to cheating
-possibilities. I think,femboys are cool
+possibilities. I think it could affect students learning by causing them to just cheat and not actually learn it 
+themselves. This would make turn the school into a better learning envoirment for the students. It would allow them
+to experience freedom but also not expose them to distractions/inappropriate things.
