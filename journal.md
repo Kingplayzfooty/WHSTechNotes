@@ -104,3 +104,7 @@ I didnt think it come up with such precise workouts that could target muscle gro
 certain aspects of soccer. I think I could imporve my propmt to be better by more specific on what I want. Being
 good at prompt engineering could be valuable in the future in order to help you keep track of things, come up with
 new ideas and other things. 
+
+# October 20, 2025
+
+<img width="1941" height="1251" alt="image" src="https://github.com/user-attachments/assets/501ef701-fb63-4717-a153-2d8f5a068951" />
