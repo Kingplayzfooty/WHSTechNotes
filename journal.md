@@ -112,3 +112,15 @@ new ideas and other things.
 # October 27, 2025
 
 <img width="1811" height="947" alt="image" src="https://github.com/user-attachments/assets/31ed54b9-2bdb-4af0-b679-756dc6ed4f89" />
+
+# November 3, 2025
+
+SNAP is a organization made to help fund families that may not be in the best of sistuations and need support
+to afford their grocceries. If SNAP were to run out of funding forn those people, this would prove to be a BIG
+problem. Many people depend on SNAP to take care of their food, so to take away that funding would greatly affect 
+lots of families. I think apps could help connect families to alternet resources for food like, many people like
+to give out food or donations, so this could help them not only get food but also different thins like clothes.
+Now for the way they could connect, there are many apps such as facebook, nextdoor, twitter, and many more.
+To be honest, any soical app can work, as long as you are specific about where and when you can donate. On 
+the flip side, this could pose to be difficult as many families wouldnt be in this situation if they were
+living comfortably, so they most likely wont have a cell phone, and maybe not even a car.
