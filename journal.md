@@ -124,3 +124,13 @@ Now for the way they could connect, there are many apps such as facebook, nextdo
 To be honest, any soical app can work, as long as you are specific about where and when you can donate. On 
 the flip side, this could pose to be difficult as many families wouldnt be in this situation if they were
 living comfortably, so they most likely wont have a cell phone, and maybe not even a car.
+
+# November 10, 2025
+
+I believe i've learend quite a bit this semester, but I want to focus on soccer since its my favorite thing to do.
+I think that compared to last year, I defenitly improved but I still have a long way to go. The compettion here is on
+another level and I honestly am just trying my best to keep up with most of the upper classmen. Although this year has
+been a bit of a struggle, I think its doing great things for me especially the fact that im playing with older/better
+players because it makes myself better. I dont exactly have a moment im most proud of, but I will say that im proud for
+being to atleast somewhat keep up with people who are more experienced than me. I will continue to play with them and try 
+my best, that way I can use this experience and things that im learning for next year.
