@@ -134,3 +134,11 @@ been a bit of a struggle, I think its doing great things for me especially the f
 players because it makes myself better. I dont exactly have a moment im most proud of, but I will say that im proud for
 being to atleast somewhat keep up with people who are more experienced than me. I will continue to play with them and try 
 my best, that way I can use this experience and things that im learning for next year.
+
+# November 17, 2025
+
+I am somewhat looking forward to this thanksgiving break. I mean it will definetly be nice to go hang out with family and
+stuff, but at the same time I dont really wanna go on break because I have soccer tryouts the day after the break is over.
+I cant exaclty train at home right now so I kinda dont wanna go on break so I can stay at school and get better or at least
+prepare for the tryouts. So im having mixed feelings about this break, but either way its still always nice to go out and
+connect with family I havent seen in a while.
