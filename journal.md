@@ -142,3 +142,11 @@ stuff, but at the same time I dont really wanna go on break because I have socce
 I cant exaclty train at home right now so I kinda dont wanna go on break so I can stay at school and get better or at least
 prepare for the tryouts. So im having mixed feelings about this break, but either way its still always nice to go out and
 connect with family I havent seen in a while.
+
+# December 8, 2025
+
+A selfdriving car might fail to recognize a school bus stop arm because it hasnt been programed to. The car's sensors might
+not be able to react in time as the arm is extending for the car to stop. If I were a programer I would make the car drive 
+a reasonable speed (slower) behind the bus because there are many hazards to driving fast behind or beside a bus. This way
+the car's sensors have enough time to scan the arm and stop. Overall, in my opinion I think selfdriving cars are dangerous 
+if not fully programed and carefully handled. 
