@@ -150,3 +150,7 @@ not be able to react in time as the arm is extending for the car to stop. If I w
 a reasonable speed (slower) behind the bus because there are many hazards to driving fast behind or beside a bus. This way
 the car's sensors have enough time to scan the arm and stop. Overall, in my opinion I think selfdriving cars are dangerous 
 if not fully programed and carefully handled. 
+
+# December 15, 2025
+
+This winter break, I plan to play soccer, hang out with friends and family, and maybe go out to places.
