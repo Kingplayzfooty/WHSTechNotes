@@ -154,3 +154,10 @@ if not fully programed and carefully handled.
 # December 15, 2025
 
 This winter break, I plan to play soccer, hang out with friends and family, and maybe go out to places.
+
+# January 6, 2026
+
+Over the break I used technology in a lot of ways seeing how its basically essential in our daily lives now.
+I used technology to purchase some new cleats for soccer. I used tech to stream on my twitch account when I was
+playing video games. And I used tech to edit some videos i've been working on. Technology helped me alot
+over the break, showing just how much I use it on the daily. 
