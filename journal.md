@@ -160,4 +160,13 @@ This winter break, I plan to play soccer, hang out with friends and family, and 
 Over the break I used technology in a lot of ways seeing how its basically essential in our daily lives now.
 I used technology to purchase some new cleats for soccer. I used tech to stream on my twitch account when I was
 playing video games. And I used tech to edit some videos i've been working on. Technology helped me alot
-over the break, showing just how much I use it on the daily. 
+over the break, showing just how much I use it on the daily.
+
+# January 20, 2026
+
+One way technology can create fairness is by allowing different people of different races, religions, and different locations,
+all able to have the same opportuinties for any online education. For example people may want to persue a certain carrer path,
+but the education may not be a physical place they can go to for it, like college campuses or even just in person learning.
+I believe that technology can provide a more fair opportunity no matter your situation or differences with online education.
+This lets many different people still persue the carrer they want while having a fair opportunity as someone who may be going
+to a college or has access to a phyisical mentor/tutor.
