@@ -170,3 +170,13 @@ but the education may not be a physical place they can go to for it, like colleg
 I believe that technology can provide a more fair opportunity no matter your situation or differences with online education.
 This lets many different people still persue the carrer they want while having a fair opportunity as someone who may be going
 to a college or has access to a phyisical mentor/tutor.
+
+# January 29, 2026
+
+I took two MAP tests this week on Tuesday and Wednesday. I feel that my peformance was definetly not my best and pretty average,
+considering I didnt try as much as I could have or wanted to. My test taking strategies on the language test went well. It was
+very challenging to stay focus and read through the long paragraphs during the reading test, which caused me to give up on some 
+questions and end up guessing or speeding through at times. I dont think a review would help as much because we dont know the
+material that is going to be used on the test, and these MAP tests often have old or not so recent things on the tests, and
+sometimes even stuff that we havent learned on them. I think the best prep one can do is make sure to stay focused, get enough
+sleep the night before, and have a postive outlook before you take the test.
