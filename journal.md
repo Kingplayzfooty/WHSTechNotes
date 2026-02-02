@@ -180,3 +180,14 @@ questions and end up guessing or speeding through at times. I dont think a revie
 material that is going to be used on the test, and these MAP tests often have old or not so recent things on the tests, and
 sometimes even stuff that we havent learned on them. I think the best prep one can do is make sure to stay focused, get enough
 sleep the night before, and have a postive outlook before you take the test.
+
+# February 2, 2026
+
+Personal hygiene and self-care is important in shared spaces because it is apart of professionalism and also human decency.
+Things like loud conversations, strong smells, or distracting behavior affect others ability to focus. The noise from
+a loud conversation may be foul language, disturbing topics, or even just too loud and obnoxious. Strong smells could 
+cause allgeries to act up such as scented sprays, cologne, perfum, etc. Foul smells such as passing gas, bad breath,
+or just stinking from not taking a shower can be very indecent and almost considered as disrespectful. Self regulation
+is important because it teaches you to be mindful of your surroundings and others space. Controlling your language, voice
+volume, and hygiene are all examples of self regulation. One habit I think we can all practice for the betterment of our
+hygiene is making sure you dont smell.
