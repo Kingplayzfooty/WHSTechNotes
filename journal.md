@@ -194,5 +194,5 @@ hygiene is making sure you dont smell.
 
 # February 10, 2026
 
-I do not enjoy football seeing how ive played it for 3 years and I tried sticking with it but it just doesn't intrest
+I do not enjoy football, seeing how i've played it for 3 years and I tried sticking with it but it just doesn't intrest
 me and I personally think it its a boring sport. I did not watch the Super Bowl LX.
