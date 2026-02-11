@@ -191,3 +191,8 @@ or just stinking from not taking a shower can be very indecent and almost consid
 is important because it teaches you to be mindful of your surroundings and others space. Controlling your language, voice
 volume, and hygiene are all examples of self regulation. One habit I think we can all practice for the betterment of our
 hygiene is making sure you dont smell.
+
+# February 10, 2026
+
+I do not enjoy football seeing how ive played it for 3 years and I tried sticking with it but it just doesn't intrest
+me and I personally think it its a boring sport. I did not watch the Super Bowl LX.
