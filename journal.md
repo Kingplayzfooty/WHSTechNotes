@@ -196,3 +196,10 @@ hygiene is making sure you dont smell.
 
 I do not enjoy football, seeing how i've played it for 3 years and I tried sticking with it but it just doesn't intrest
 me and I personally think it its a boring sport. I did not watch the Super Bowl LX.
+
+# February 23, 2026
+
+I believe the most important technology used in the 2026 Winter Olympics was saftey. Team USA used heat-regulating jackets
+made by Nike and Adidas accross many events such as their skiing, snowboarding, and running tournaments. This allowed the
+athletes to withstand the freezing temperatures while still being able to perform their best, stay warm, and stay safe.
+This shows how important and helpful technology can be to sports.
