@@ -203,3 +203,24 @@ I believe the most important technology used in the 2026 Winter Olympics was saf
 made by Nike and Adidas accross many events such as their skiing, snowboarding, and running tournaments. This allowed the
 athletes to withstand the freezing temperatures while still being able to perform their best, stay warm, and stay safe.
 This shows how important and helpful technology can be to sports.
+
+# March 30, 2026
+
+I didnt watch the basketball tournament so i'm doing this journal based off my favorite sport, soccer. The champoions leauge
+is a tournament hosted every year. Clubs that quallify from around the world have a chance to win the European Champion Clubs' 
+Cup, a very precious trophy. One surprising moment that happened was Leverkusen losing to Arsenal. I think some data factors
+such as possesion and predicted win rate can be hard to analyze because it can be challenging to proccess that data. Sometimes
+the data can be wrong because of overloads and surprising events that the AI has to quickly and effeciently procces. If I was building a game, it probably struggle to account for medals earned correctly, in order to improve that, I would make it auto
+matically give the medal to the player once they reach a certain critteria.
+
+# April 9, 2026
+
+I would say that humans encourage animal ecycosystems to contiune to reproduce, we help with agriculture, and humans
+can continue to learn how to contribute more to helping planet earth stay more nature-based. I woud then appeal to 
+logical reasoning because I think thats all AI can truly understand, and then I would give evidence of exact instances
+where humans helped the earth. My plan would first focus on rebuilding and better place for AI, humans, and animals all
+share a safe space while keeping it as minimallized from pollution as we possibly can. Then I would enhance the very little
+pollution that is left on the earth so it is not damaging to the planet but still managable for human use for comfortability.
+AI may see the risks in humans wanting more/being greedy and causing more pollution into the world, but we would have to compromise
+to facing consquences by the AI so that they know were seroius. I beleive my solution would be successful because it would allow AI
+to montior everything that happens, and provides a vaild argument to at least give the plan a try.
