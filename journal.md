@@ -224,3 +224,12 @@ pollution that is left on the earth so it is not damaging to the planet but stil
 AI may see the risks in humans wanting more/being greedy and causing more pollution into the world, but we would have to compromise
 to facing consquences by the AI so that they know were seroius. I beleive my solution would be successful because it would allow AI
 to montior everything that happens, and provides a vaild argument to at least give the plan a try.
+
+# April 13, 2026
+
+Modern space technology is reliable enough for long missions, but it still has its limits. During the Artemis II mission,
+advanced spacecraft navigation systems helped astronauts travel safely around the Moon and return to Earth. Another important
+technology was the life support system, which provided oxygen, water, and waste management for the crew. Yet, the mission had
+challenges too, such as problems with the onboard systems like the toilet. Also, there was a communication blackout when the 
+spacecraft passed behind the Moon, showing contact with Earth isnt always possible. These challenges are important becasue they
+help engineers learn from mistakes and problems that will ultimately improve systems for longer missions.
