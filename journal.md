@@ -237,10 +237,10 @@ help engineers learn from mistakes and problems that will ultimately improve sys
 # April 20, 2026
 
 I believe that AI making music or media is okay as long as we humans know that it was made by an AI. I think if people claim it as
-"real" then that isn't okay in any way because it can change peoples believes or opinions on certain topics. For example, their is
-a serious getting pretty popular on Tikok and it's called Fruit Love Island. Now this serious isn't realistic so you can tell that
+"real" then that isn't okay in any way because it can change peoples believes or opinions on certain topics. For example, there is
+a series getting pretty popular on Tikok and it's called Fruit Love Island. Now this series isn't realistic so you can tell that
 it is made by an AI, but if someone were to say its their work and that they animated it, that wouldnt be acceptable. Another problem
-is the way AI is used. Some people use it inappropiately and there was not to long ago, where a student got arrested for making a certain
+is the way AI is used. Some people use it inappropiately and there was not to long ago, a case where a student got arrested for making a certain
 type of AI videos using pictures of other students. So this just proves that AI also needs limits on what people can use it for. Ultimately,
-AI is okay to use but I just think their should be an extent to how we use it, what we use it for, and not allow people to claim credit for
+AI is okay to use but I just think there should be an extent to how we use it, what we use it for, and not allow people to claim credit for
 work that AI actually did.
