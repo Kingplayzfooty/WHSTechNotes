@@ -244,3 +244,11 @@ is the way AI is used. Some people use it inappropiately and there was not to lo
 type of AI videos using pictures of other students. So this just proves that AI also needs limits on what people can use it for. Ultimately,
 AI is okay to use but I just think there should be an extent to how we use it, what we use it for, and not allow people to claim credit for
 work that AI actually did.
+
+# April 29, 2026
+
+Technology is a big part of soccer today beacuse it helps make games more fair and accurate. In the UEFA Champions Leuage semi
+-final this week, Video Assistant Referre (VAR) was used to review a handball and gave Atletico Madrid a pentalty after the 
+referee checked the replay. UEFA also explained that VAR helped overturn another penalty call later in the game, showing how 
+technology can correct mistakes. This kind of technology is important because referees can miss things in real time when the 
+game is moving fast. Overall, technology in soccer helps players, referess, and fans trust that the right calls are being made.
