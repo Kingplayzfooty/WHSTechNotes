@@ -232,7 +232,8 @@ advanced spacecraft navigation systems helped astronauts travel safely around th
 technology was the life support system, which provided oxygen, water, and waste management for the crew. Yet, the mission had
 challenges too, such as problems with the onboard systems like the toilet. Also, there was a communication blackout when the 
 spacecraft passed behind the Moon, showing contact with Earth isnt always possible. These challenges are important becasue they
-help engineers learn from mistakes and problems that will ultimately improve systems for longer missions.
+help engineers learn from mistakes and problems that will ultimately improve systems for longer missions. I used AI to assist
+me with this journal.
 
 # April 20, 2026
 
@@ -252,3 +253,14 @@ Technology is a big part of soccer today beacuse it helps make games more fair a
 referee checked the replay. UEFA also explained that VAR helped overturn another penalty call later in the game, showing how 
 technology can correct mistakes. This kind of technology is important because referees can miss things in real time when the 
 game is moving fast. Overall, technology in soccer helps players, referess, and fans trust that the right calls are being made.
+
+# May 6, 2026
+
+I believe that AI is being trained by the way we use technology wether we know it or not. Things like the way we text, what we
+post, trends on social media all contribute to AI being trained on how humans interact. For example whenever I use chatgpt, I
+sometimes put emojis because thats just apart of the way I text daily. I noticed that it started to put emojis that it knows I 
+understand/releate to. It even asks you which response you like better in order to know which is more relateable or more human-
+like. Another example of AI being trained is what we search up on these social media/etertainement apps. The fact that they even
+have a personal reccomeded or searchs that relate your intrest shows that AI is able to understand what like, and then put it in
+your face to intrest you. Ultimately, AI is being trained by our actions online, and its definetly improving at inpersonating
+being human.
