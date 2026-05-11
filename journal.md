@@ -264,3 +264,11 @@ like. Another example of AI being trained is what we search up on these social m
 have a personal reccomeded or searchs that relate your intrest shows that AI is able to understand what like, and then put it in
 your face to intrest you. Ultimately, AI is being trained by our actions online, and its definetly improving at inpersonating
 being human.
+
+# May 11, 2026
+
+I think this year I improved on my responsibility. Towards the middle of the year I started to get a bit lazy and I was lowkey over
+the work already. But I realized that it wasn't getting me anywhere it was actually making my life more difficult than it already was.
+My dad explained to me a way to think about school so that I stay motivated and continue to put 100% effort into my work. One example
+is when I used to go home and get distracted and end up not doing my homework. Now, I go home and do the work and it has affected my grade postively. I feel like my mindset has changed about school, wether or not I feel like doing the work I know that its important 
+in the long run to help my gpa. Every assignment counts and leads me closer to achiving higher education.
